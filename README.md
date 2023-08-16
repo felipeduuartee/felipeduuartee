@@ -1,14 +1,9 @@
-## Felipe Duarte | Diving Deep into Biomedical Informatics
-
+## Felipe Duarte | Diving Deep into Biomedical Informatics 🧪 💻
 * Student of Biomedical Informatics at the Federal University of Paraná (UFPR).
 * Enthusiastic about Machine Learning and Cybersecurity.
 * Active in studies on time series analysis with the Laboratório de Inteligência Artificial e Métodos Formais (LIAMF) at UFPR.
-<div>
-  <img height="115cm" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipeduuartee&theme=github_dark"/>
-  <img height="115cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeduuartee&layout=compact&theme=github_dark"/>
-</div>
 
-### Technologies and Tools I use:
+### 💻 Tech Stack
 <div>
   <img align="centeer" alt="felipe-kali" height="30" widht="40" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
   <img align="centeer" alt="felipe-ubuntu" height="30" widht="40" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
@@ -24,6 +19,15 @@
   <img align="centeer" alt="felipe-scikit" height="30" widht="40" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </div>
 
-### You can find me here:
+### 💠 You can find me here
 
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-duarte-silva-4407b4211/)
+
+### 📈 GitHub Stats
+
+<div>
+  <img height="150cm" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipeduuartee&theme=github_dark"/>
+  <img height="150cm" src="https://github-readme-streak-stats.herokuapp.com/?user=felipeduuartee&theme=dark"/>
+  <img height="115cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeduuartee&layout=compact&theme=github_dark"/>
+</div>
+
