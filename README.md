@@ -28,6 +28,6 @@
 <div>
   <img height="130cm" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipeduuartee&theme=github_dark"/>
   <img height="150cm" src="https://github-readme-streak-stats.herokuapp.com/?user=felipeduuartee&theme=dark"/>
-  <img height="115cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeduuartee&layout=compact&theme=github_dark"/>
+  <img height="115cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeduuartee&layout=compact&theme=dark"/>
 </div>
 
