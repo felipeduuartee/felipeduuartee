@@ -1,7 +1,7 @@
 ## Felipe Duarte | Diving Deep into Biomedical Informatics 🧪 💻
 * Student of Biomedical Informatics at the Federal University of Paraná (UFPR).
 * Enthusiastic about Machine Learning.
-* Active in Time Series Analysis, including the use of shapelets, with the Laboratório de Inteligência Artificial e Métodos Formais (LIAMF) at UFPR.
+* Active in studies about Time Series Analysis, including the use of shapelets, with the Laboratório de Inteligência Artificial e Métodos Formais (LIAMF) at UFPR.
 
 
 ### 💻 Tech Stack
