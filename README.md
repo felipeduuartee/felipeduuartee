@@ -1,11 +1,11 @@
 ## Felipe Duarte | Diving Deep into Biomedical Informatics 🧪 💻
 * Student of Biomedical Informatics at the Federal University of Paraná (UFPR).
-* Enthusiastic about Machine Learning and Cybersecurity.
-* Active in studies on time series analysis with the Laboratório de Inteligência Artificial e Métodos Formais (LIAMF) at UFPR.
+* Enthusiastic about Machine Learning.
+* Active in Time Series Analysis, including the use of shapelets, with the Laboratório de Inteligência Artificial e Métodos Formais (LIAMF) at UFPR.
+
 
 ### 💻 Tech Stack
 <div>
-  <img align="centeer" alt="felipe-kali" height="30" widht="40" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
   <img align="centeer" alt="felipe-ubuntu" height="30" widht="40" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img align="centeer" alt="felipe-overleaf" height="30" widht="40" src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white"/>
   <img align="centeer" alt="felipe-vscode" height="30" widht="40" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
