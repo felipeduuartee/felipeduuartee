@@ -1,7 +1,8 @@
 ## Felipe Duarte | Diving Deep into Biomedical Informatics 🧪 💻
 * Student of Biomedical Informatics at the Federal University of Paraná (UFPR).
-* Enthusiastic about Machine Learning.
+* Enthusiastic about Machine Learning and Bioinformatics.
 * Active in studies about Time Series Analysis, including the use of shapelets, with the Laboratório de Inteligência Artificial e Métodos Formais (LIAMF) at UFPR.
+* I'm involved in a project analyzing single-cell cardiac cells of zebrafish, investigating the molecular mechanisms underlying fibrotic tissue regeneration post-infarction.
 
 
 ### 💻 Tech Stack
