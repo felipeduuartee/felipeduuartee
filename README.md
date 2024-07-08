@@ -32,5 +32,5 @@
 
 <div>
   <img height="130cm" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipeduuartee&theme=github_dark"/>
-  <img height="130cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeduuartee&hide_progress=true&theme=github_dark"/>
+<img height="130cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeduuartee&hide_progress=true&theme=github_dark&cache_seconds=1800"/>
 </div>
