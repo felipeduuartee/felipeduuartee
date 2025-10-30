@@ -3,6 +3,6 @@
 <img src="https://images.alphacoders.com/131/1317390.png" min-width="400px" max-width="400px" width="400px" height="250px" align="right">
 
 
- Biomedical Informatics student at the Federal University of Paraná (UFPR)
+ Biomedical Informatics student at the Federal University of Paraná
  ###
- Cybersecurity researcher focused on large-scale malware detection and threat monitoring in Linux-based systems
+ Researching cybersecurity, malware detection, and Linux threats
