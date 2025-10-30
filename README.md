@@ -1,6 +1,6 @@
 
 ## 
-<img src="https://images.alphacoders.com/131/1317390.png" min-width="400px" max-width="400px" width="400px" height="250px" align="right">
+<img src="https://images.alphacoders.com/131/1317390.png" min-width="400px" max-width="400px" width="200px" height="150px" align="right">
 
 
  Biomedical Informatics student at the Federal University of Paraná
