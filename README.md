@@ -1,8 +1,9 @@
+<img src="https://images.alphacoders.com/131/1317390.png"
+     width="250px"
+     height="250px"
+     align="right"
+     style="margin-right: -60px; margin-top: 10px;" />
 
-## 
-<img src="https://images.alphacoders.com/131/1317390.png" min-width="400px" max-width="400px" width="250px" height="250px" align="right">
-
-
- biomedical informatics student at the Federal University of Paraná
- ###
- cybersecurity researcher - malware detection and Linux threats
+biomedical informatics student at the Federal University of Paraná  
+###
+cybersecurity researcher - malware detection and Linux threats
