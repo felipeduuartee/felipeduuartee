@@ -6,4 +6,4 @@
 
 biomedical informatics student at the federal university of paraná  
 ###
-cybersecurity researcher - malware detection and Linux threats
+cybersecurity researcher - malware detection and linux threats
