@@ -4,6 +4,6 @@
      align="right"
      style="margin-right: -60px; margin-top: 10px;" />
 
-biomedical informatics student at the Federal University of Paraná  
+biomedical informatics student at the federal university of paraná  
 ###
 cybersecurity researcher - malware detection and Linux threats
