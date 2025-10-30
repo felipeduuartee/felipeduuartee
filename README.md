@@ -5,4 +5,4 @@
 
  Biomedical Informatics student at the Federal University of Paraná
  ###
- Researching cybersecurity, malware detection, and Linux threats
+Cybersecurity researcher - malware detection and Linux threats
